@@ -1,0 +1,30 @@
+{
+  "clientes": [
+    {
+      "nome": "Vicenzo Castellia",
+      "telefone": "987654321",
+      "id": "kjgfsaldkjfha"
+    },
+    {
+      "id": "hNOjTe",
+      "nome": "Gabriel",
+      "telefone": "111"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": "IDTeste",
+      "cnpj": "teste6",
+      "nome": "teste6",
+      "telefone": "teste6",
+      "endereco": "teste6"
+    },
+    {
+      "id": "pHq9pz",
+      "cnpj": "teste7",
+      "nome": "teste7",
+      "endereco": "teste7",
+      "telefone": "teste7"
+    }
+  ]
+}
